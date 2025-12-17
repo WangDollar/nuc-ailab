@@ -150,13 +150,3 @@ npx hexo new "文章标题"
 - [hexo-theme-matery 主题](https://github.com/blinkfox/hexo-theme-matery)
 - [中北大学计算机科学与技术学院](https://cst.nuc.edu.cn/)
 
-## 📄 许可证
-
-本项目基于 MIT 许可证开源。
-
----
-
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/android-nuc">NUC AI Lab</a>
-</p>
-
