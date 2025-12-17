@@ -8,3 +8,6 @@ package-lock.json
 
 # 大文件
 themes/hexo-theme-matery/source/medias/life/
+
+# 排除包含敏感信息的第三方库
+themes/hexo-theme-matery/source/libs/twikoo/
