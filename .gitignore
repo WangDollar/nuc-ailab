@@ -5,3 +5,6 @@ db.json
 .DS_Store
 package-lock.json
 *.log
+
+# 大文件
+themes/hexo-theme-matery/source/medias/life/
